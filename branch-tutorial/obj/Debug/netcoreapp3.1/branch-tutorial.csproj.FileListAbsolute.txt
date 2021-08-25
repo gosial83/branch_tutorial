@@ -1,0 +1,13 @@
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\bin\Debug\netcoreapp3.1\branch-tutorial.exe
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\bin\Debug\netcoreapp3.1\branch-tutorial.deps.json
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\bin\Debug\netcoreapp3.1\branch-tutorial.runtimeconfig.json
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\bin\Debug\netcoreapp3.1\branch-tutorial.runtimeconfig.dev.json
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\bin\Debug\netcoreapp3.1\branch-tutorial.dll
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\bin\Debug\netcoreapp3.1\branch-tutorial.pdb
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.csproj.AssemblyReference.cache
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.AssemblyInfoInputs.cache
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.AssemblyInfo.cs
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.dll
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.pdb
+C:\Users\Gosia\source\repos\branch-tutorial\branch-tutorial\obj\Debug\netcoreapp3.1\branch-tutorial.genruntimeconfig.cache
